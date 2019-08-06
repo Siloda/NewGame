@@ -1,0 +1,11 @@
+C:\Users\Silod\source\repos\NewGame\NewGame\bin\Debug\netcoreapp2.1\NewGame.deps.json
+C:\Users\Silod\source\repos\NewGame\NewGame\bin\Debug\netcoreapp2.1\NewGame.runtimeconfig.json
+C:\Users\Silod\source\repos\NewGame\NewGame\bin\Debug\netcoreapp2.1\NewGame.runtimeconfig.dev.json
+C:\Users\Silod\source\repos\NewGame\NewGame\bin\Debug\netcoreapp2.1\NewGame.dll
+C:\Users\Silod\source\repos\NewGame\NewGame\bin\Debug\netcoreapp2.1\NewGame.pdb
+C:\Users\Silod\source\repos\NewGame\NewGame\obj\Debug\netcoreapp2.1\NewGame.csprojAssemblyReference.cache
+C:\Users\Silod\source\repos\NewGame\NewGame\obj\Debug\netcoreapp2.1\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\Silod\source\repos\NewGame\NewGame\obj\Debug\netcoreapp2.1\NewGame.AssemblyInfoInputs.cache
+C:\Users\Silod\source\repos\NewGame\NewGame\obj\Debug\netcoreapp2.1\NewGame.AssemblyInfo.cs
+C:\Users\Silod\source\repos\NewGame\NewGame\obj\Debug\netcoreapp2.1\NewGame.dll
+C:\Users\Silod\source\repos\NewGame\NewGame\obj\Debug\netcoreapp2.1\NewGame.pdb
